@@ -1,0 +1,8 @@
+rootProject.name = 'backend-api'
+
+include 'customer-service'
+include 'order-service'
+include 'payment-service'
+include 'inventory-service'
+include 'delivery-service'
+
